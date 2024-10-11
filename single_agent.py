@@ -8,8 +8,8 @@ import sdk
 
 sdk.load_credentials()
 import os
-os.environ["TEAM_API_KEY"] = "776baec37164e833039d030a5e48edc735e6cd038f04fa9642d39936e570905d"
-os.environ["SERPAPI_API_KEY"] = "43d5bfc4ff7ff84dfb5a540c1f51734ac1bb196894e83cac0208b4e97936e462"
+os.environ["TEAM_API_KEY"] = ""
+os.environ["SERPAPI_API_KEY"] = ""
 
 
 import json
